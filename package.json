@@ -1,0 +1,15 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "A task tracker CLI application.",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "todo": "./index.cjs"
+  },
+  "type":"commonjs",
+  "author": "Rohit Baila",
+  "license": "ISC"
+}

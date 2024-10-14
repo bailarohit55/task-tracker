@@ -1,6 +1,7 @@
 # Task tracker
 
-This document provides step-by-step instructions on how to use the task tracker.
+The task tracker which was created as part of this [project](https://roadmap.sh/projects/task-tracker) on [Roadmap.sh](https://roadmap.sh).
+This document contains the intructions to run it on your machine.
 
 ## Features
 - Add a task which will get a unique ID on creation.
